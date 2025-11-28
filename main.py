@@ -7,7 +7,6 @@ from daily_quotes import to_address
 
 mail = "testuserbob28@gmail.com"
 password = "enzs grkq weto kpbd"
-from calendar import month
 
 import pandas
 # 1. Update the birthdays.csv with your friends & family's details. 
